@@ -1,0 +1,50 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "classes",
+            "cwd": "classes",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "collections",
+            "cwd": "collections",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "custom_operators",
+            "cwd": "custom_operators",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "enumerations",
+            "cwd": "enumerations",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "mixins",
+            "cwd": "mixins",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "optionals",
+            "cwd": "optionals",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "variables_and_data_types",
+            "cwd": "variables_and_data_types",
+            "request": "launch",
+            "type": "dart"
+        }
+    ]
+}
